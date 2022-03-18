@@ -1,8 +1,6 @@
 node_modules
 .DS_Store
 .env
-/.idea/modules.xml
-/.idea/odyssey-lift-off-part5-server.iml
-/.idea/vcs.xml
+/.idea/*
 /yarn.lock
-/.idea/.gitignore
+
